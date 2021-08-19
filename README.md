@@ -23,9 +23,9 @@
 
 ## Setup
 To clone the repo to your local repository. Follow this steps
--git clone https://github.com/Mita-cpu/Python_iterations_project.git
--cd DOM_Project
--Open practice.py in your preferred IDE.
+- git clone https://github.com/Mita-cpu/Python_iterations_project.git
+- cd Python_iterations_project
+- Open practice.py in your preferred IDE.
 ## Authors
 - Mita Raboya
 ## Project Status
