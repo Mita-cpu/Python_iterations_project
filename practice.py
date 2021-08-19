@@ -14,7 +14,7 @@ def is_palindrome(word):
 
     print(is_palindrome)
 
-is_palindrome("took")
+is_palindrome("mom")
 
 
 #  A method that takes an array of numbers and returns a new array ,
