@@ -21,11 +21,11 @@ is_palindrome("took")
 # where every element of the original array is multiplied by 2.
 
 def doubler(numbers):
-    my_new_array = []
+    my_list = []
     for i in numbers:
-        my_new_array.append(i * 2)
+        my_list.append(i * 2)
 
-    print(my_new_array)
+    print(my_list)
 
 doubler([3,4,2,5])
 
